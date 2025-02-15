@@ -1,6 +1,6 @@
 <img align="left" style="margin-top:25px" width="60" height="60" src="assets/icons/wallet.png">
 
-#SpendWise - Personal Finance Manager
+SpendWise - Personal Finance Manager
 
 📌 Overview
 
