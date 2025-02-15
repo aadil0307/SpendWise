@@ -1,4 +1,4 @@
-<img align="left" style="margin-top:25px" width="60" height="60" src="assets/icons/wallet.png">
+<img align="left" style="margin-top:25px" width="50" height="50" src="assets/icons/wallet.png">
 
 SpendWise - Personal Finance Manager
 
