@@ -1,4 +1,4 @@
-<img align="left" style="margin-top:25px" width="60" height="60" src="Images/wallet.png">
+<img align="left" style="margin-top:25px" width="60" height="60" src="assets/Images/wallet.png">
 
 #SpendWise - Personal Finance Manager
 
@@ -48,15 +48,15 @@ UI/UX: Material Design
 
 <table>
     <tr>
-        <td><img src="Images/1.png" width="100%"></td>
-        <td><img src="Images/2.png"></td>
+        <td><img src="assets/Images/1.png" width="100%"></td>
+        <td><img src="assets/Images/2.png"></td>
     </tr>
     <tr>
-        <td><img src="Images/3.png"></td>
-         <td><img src="Images/4.png"></td>
+        <td><img src="assets/Images/3.png"></td>
+         <td><img src="assets/Images/4.png"></td>
     </tr>
     <tr>
-        <td><img src="Images/5.png"></td>
-         <td><img src="Images/6.png"></td>
+        <td><img src="assets/Images/5.png"></td>
+         <td><img src="assets/Images/6.png"></td>
     </tr>
 </table>
